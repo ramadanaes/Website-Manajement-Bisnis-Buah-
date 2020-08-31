@@ -1,0 +1,5 @@
+Rencana Pembuatan Website :
+- Mengutamakan Frontend "HTML, CSS, JavaScript"
+- Mockup (done)
+- Database
+- 
